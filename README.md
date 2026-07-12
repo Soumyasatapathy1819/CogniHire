@@ -286,33 +286,6 @@ This ensures:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here.
-
-Example:
-
-```text
-screenshots/
-├── Home.png
-├── Upload.png
-├── Results.png
-└── Dashboard.png
-```
-
-Then insert them like this:
-
-```markdown
-### Home Page
-
-![Home](screenshots/Home.png)
-
-### Results
-
-![Results](screenshots/Results.png)
-```
-
----
 
 ## 🤝 Contributing
 
@@ -355,7 +328,7 @@ B.Tech (Hons.) Computer Science & Engineering
 XIM University, Bhubaneswar
 
 - GitHub: https://github.com/Soumyasatapathy1819
-- LinkedIn: https://www.linkedin.com/in/soumya-prakash-satapathy/
+- LinkedIn: www.linkedin.com/in/soumya-prakash-satapathy-b57b68284
 
 ---
 
